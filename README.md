@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 影 KAGE
 
@@ -299,4 +299,4 @@ This project is open source under the [MIT License](LICENSE).
 *KAGE keeps the token alive after launch — not just for the first 48 hours.*
 
 </div>
-]]>
+
