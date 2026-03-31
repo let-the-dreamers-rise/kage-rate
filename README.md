@@ -286,12 +286,6 @@ Custom utilities include `mesh` background gradients, `panel` box shadows, and `
 
 ---
 
-## License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 **Built for the [Bags Hackathon](https://bags.fm/) 🏆**
